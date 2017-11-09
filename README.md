@@ -1,2 +1,1 @@
-# reactagram
-React + Instagram
+# react-plate
